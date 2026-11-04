@@ -13,9 +13,9 @@ Contractor-facing site for Wasatch Growth Group. Plain HTML and CSS, served by G
 
 ## Rules for this site
 - Brand name: "Wasatch Growth Group". The founders appear by first name only (brothers Jackson and Noah) in the About page's "Who we are" section and the home page mission card. No legal entity names, last names, street addresses, or emails other than jackson@wasatchgrowthgroup.com.
-- Make no claims that a territory or lead is reserved or protected for one contractor. The only allowed contrast is the approved line: each homeowner goes to one contractor only and is never resold.
+- Don't make commitments about how leads are shared, resold, reserved, or found (no "one contractor only," "never resold," territory protection, or comparisons with shared-lead marketplaces). Those details belong in sales calls, not on the site.
 - Never name where leads come from (no ad platforms or homeowner-facing site names).
 - No dollar amounts, guarantees, made-up stats, testimonials, client counts, or years in business.
 - No form backend, analytics, tracking pixels, or cookies.
-- Keep the approved lines word for word: the tagline, subtitle, services name, mission, Detect/Qualify/Deliver/Respond, "Our team organizes the opportunity. Your team executes.", Optimize/Qualify/Execute, and the one-contractor-per-homeowner contrast.
+- Keep the approved lines word for word: the tagline, subtitle, services name, mission, Detect/Qualify/Deliver/Respond, "Our team organizes the opportunity. Your team executes.", and Optimize/Qualify/Execute.
 - Don't change `CNAME`.
