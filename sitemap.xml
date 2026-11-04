@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://wasatchgrowthgroup.com/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://wasatchgrowthgroup.com/</loc></url>
+  <url><loc>https://wasatchgrowthgroup.com/how-it-works/</loc></url>
+  <url><loc>https://wasatchgrowthgroup.com/about/</loc></url>
+  <url><loc>https://wasatchgrowthgroup.com/book-a-call/</loc></url>
+  <url><loc>https://wasatchgrowthgroup.com/privacy/</loc></url>
+</urlset>
