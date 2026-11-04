@@ -12,7 +12,7 @@ Contractor-facing site for Wasatch Growth Group. Plain HTML and CSS, served by G
 - Update `sitemap.xml` `lastmod` when a page's content changes.
 
 ## Rules for this site
-- Brand name only: "Wasatch Growth Group". No legal entity names, owner names, street addresses, or other emails.
+- Brand name: "Wasatch Growth Group". The founders appear by first name only (brothers Jackson and Noah) in the About page's "Who we are" section and the home page mission card. No legal entity names, last names, street addresses, or emails other than jackson@wasatchgrowthgroup.com.
 - Make no claims that a territory or lead is reserved or protected for one contractor. The only allowed contrast is the approved line: each homeowner goes to one contractor only and is never resold.
 - Never name where leads come from (no ad platforms or homeowner-facing site names).
 - No dollar amounts, guarantees, made-up stats, testimonials, client counts, or years in business.
