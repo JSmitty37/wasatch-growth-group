@@ -210,3 +210,18 @@ p { margin: 0 0 1em; }
   .hero-actions .btn { flex: 1 1 100%; }
   .footer-grid { grid-template-columns: 1fr; }
 }
+
+/* ---------- Accessibility ---------- */
+.skip-link {
+  position: absolute; left: 12px; top: -60px; z-index: 100;
+  background: var(--ink); color: #fff; padding: 10px 16px; border-radius: 8px; font-weight: 700; text-decoration: none;
+}
+.skip-link:focus { top: 12px; color: #fff; }
+:focus-visible { outline: 3px solid var(--copper-dk); outline-offset: 3px; border-radius: 4px; }
+.btn:focus-visible { outline-offset: 3px; }
+.cta-band :focus-visible, .site-footer :focus-visible { outline-color: #fff; }
+.faq summary:focus-visible { outline-offset: 2px; }
+main:focus { outline: none; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; scroll-behavior: auto !important; }
+}
