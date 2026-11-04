@@ -246,3 +246,13 @@ main:focus { outline: none; }
 .mission { max-width: 760px; padding: 32px 30px; border-left: 4px solid var(--copper); }
 .mission h2 { font-size: 1.45rem; }
 .mission p { font-size: 1.08rem; }
+
+/* Home teaser, principle cards, and the booking placeholder */
+.card-link { margin: 12px 0 0; font-weight: 700; }
+.card-link a::after, .text-link::after { content: " \2192"; }
+.text-link { font-weight: 700; }
+.teaser .section-head { margin-bottom: 36px; }
+.principle { background: var(--paper); border-style: dashed; }
+.section.alt .principle { box-shadow: none; }
+.principle .label { color: var(--muted); }
+.mailto-box .or { font-size: .95rem; margin-top: -4px; }
