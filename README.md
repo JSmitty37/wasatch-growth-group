@@ -3,7 +3,7 @@
 Contractor-facing site for Wasatch Growth Group. Plain HTML and CSS, served by GitHub Pages from `main`.
 
 ## Pages
-- `/` Home, `/how-it-works/`, `/about/`, `/book-a-call/`, `/privacy/`, plus `404.html`
+- `/` Home, `/how-it-works/`, `/gbp/`, `/about/`, `/book-a-call/`, `/privacy/`, plus `404.html`
 - Shared styles: `styles.css`. Logos and the share image: `assets/`. Favicons at the root.
 
 ## Editing notes
